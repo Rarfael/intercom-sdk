@@ -1,0 +1,27 @@
+# API Information
+
+
+main: {
+  kit: {
+    info: {
+      description: "Create, read, update, and delete Intercom contacts."
+      security: {
+        in: "header"
+        name: "Authorization"
+        prefix: "Bearer"
+        scheme: "bearerAuth"
+        type: "http"
+      }
+      servers: [
+        {
+          url: "https://api.intercom.io"
+        }
+      ]
+      summary: "Create, read, update, and delete Intercom contacts."
+      title: "Intercom Contacts API"
+      version: "2.11"
+      website: "https://intercom.io"
+    }
+  }
+}
+

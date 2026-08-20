@@ -1,0 +1,45 @@
+{
+  "existing": {
+    "contact": {
+      "CONTACT00": {
+        "created_at": "s46",
+        "email": "s47",
+        "id": "CONTACT00",
+        "name": "s49",
+        "phone": "s4a",
+        "role": "s4b",
+        "updated_at": "s4c"
+      },
+      "CONTACT01": {
+        "created_at": "s8c",
+        "email": "s8d",
+        "id": "CONTACT01",
+        "name": "s8f",
+        "phone": "s90",
+        "role": "s91",
+        "updated_at": "s92"
+      },
+      "CONTACT02": {
+        "created_at": "sd2",
+        "email": "sd3",
+        "id": "CONTACT02",
+        "name": "sd5",
+        "phone": "sd6",
+        "role": "sd7",
+        "updated_at": "sd8"
+      }
+    }
+  },
+  "new": {
+    "contact": {
+      "contact_ref01": {
+        "created_at": "s118",
+        "email": "s119",
+        "name": "s11b",
+        "phone": "s11c",
+        "role": "s11d",
+        "updated_at": "s11e"
+      }
+    }
+  }
+}
